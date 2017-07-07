@@ -1,2 +1,2 @@
-# furtracker
-Kinect skeleton tracking + Fur
+# Fur Tracker
+Kinect Skeleton tracking + Fur
